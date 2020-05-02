@@ -1,0 +1,88 @@
+{
+    "food": [{
+            "SerialNumber": 1,
+            "Name": "Potato",
+            "Quantity": 5,
+            "unit": "kg",
+            "Department": "vegetables",
+            "notes": "10% discount"
+        },
+        {
+            "SerialNumber": 2,
+            "Name": "Tomato",
+            "Quantity": 2,
+            "unit": "kg",
+            "Department": "vegetables",
+            "notes": "5% discount"
+
+        },
+        {
+            "SerialNumber": 3,
+            "Name": "grape",
+            "Quantity": 3,
+            "unit": "kg",
+            "Department": "fruit",
+            "notes": "5% discount"
+        },
+        {
+            "SerialNumber": 4,
+            "Name": "cabbage",
+            "Quantity": 1,
+            "unit": "kg",
+            "Department": "vegetables",
+            "notes": "10% discount"
+        },
+        {
+            "SerialNumber": 5,
+            "Name": "apple",
+            "Quantity": 6,
+            "unit": "kg",
+            "Department": "fruit",
+            "notes": "no discount"
+        },
+        {
+            "SerialNumber": 6,
+            "Name": "cucumber",
+            "Quantity": 1,
+            "unit": "kg",
+            "Department": "vegetables",
+            "notes": "no discount"
+        },
+        {
+            "SerialNumber": 7,
+            "Name": "carrot",
+            "Quantity": 3,
+            "unit": "kg",
+            "Department": "vegetables",
+            "notes": "15% discount"
+        },
+        {
+            "SerialNumber": 8,
+            "Name": "mango",
+            "Quantity": 2,
+            "unit": "kg",
+            "Department": "fruit",
+            "notes": "no discount"
+        },
+        {
+            "SerialNumber": 9,
+            "Name": "spinach",
+            "Quantity": 1,
+            "unit": "kg",
+            "Department": "vegetables",
+            "notes": "no discount"
+        },
+        {
+            "SerialNumber": 10,
+            "Name": "papaya",
+            "Quantity": 2,
+            "unit": "kg",
+            "Department": "fruit",
+            "notes": "5% discount"
+        }
+
+
+    ]
+
+
+}
